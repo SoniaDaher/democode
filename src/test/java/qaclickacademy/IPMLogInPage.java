@@ -40,7 +40,7 @@ public class IPMLogInPage {
     
     	
 		} catch(Exception ex) {
-        System.out.println("Error occured while logging into the IPM Application using userName: Admin Password :ROYC@dm1n");
+        System.out.println("Error1 occured while logging into the IPM Application using userName: Admin Password :ROYC@dm1n");
 			
 		}
 		
