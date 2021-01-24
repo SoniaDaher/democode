@@ -36,7 +36,7 @@ public class IPMLogInPage {
    
      //   WebDriverWait wait = new WebDriverWait(driver, 10);
         //wait.until(ExpectedConditions.visibilityOf(lnkLogout));
-        System.out.println("Logged in successfully into the IPM Application");
+        System.out.println("Logged1 in successfully into the IPM Application");
     
     	
 		} catch(Exception ex) {
