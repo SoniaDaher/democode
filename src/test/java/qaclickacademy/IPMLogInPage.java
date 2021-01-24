@@ -24,7 +24,7 @@ public class IPMLogInPage {
 		try {
 		
 	
-        driver.get("http://172.31.55.217:7051/ipmSuite");
+        driver.get("http://royC");
 
         WebElement username= driver.findElement(By.id("j_username"));
         username.sendKeys("Sonia4");
