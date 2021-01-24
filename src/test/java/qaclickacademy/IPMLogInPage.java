@@ -24,12 +24,12 @@ public class IPMLogInPage {
 		try {
 		
 	
-        driver.get("http://royC");
+        driver.get("http://royB");
 
         WebElement username= driver.findElement(By.id("j_username"));
-        username.sendKeys("Sonia4");
+        username.sendKeys("Admin");
         WebElement password= driver.findElement(By.id("j_password"));
-        password.sendKeys("Welcome123");
+        password.sendKeys("Admin");
         
         WebElement signInBtn= driver.findElement(By.id("loginBtn"));
         signInBtn.click();
